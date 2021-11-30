@@ -29,7 +29,7 @@ SO THAT my account balance is accurate when I am traveling
 [Link to deployed application](https://secure-badlands-81029.herokuapp.com/)
 
 Image of downloaded application.
-![alt text](/icons/1.png)
+![alt text](public/icons/1.png)
 
 ## Installation
 To get started clone this repository using 
