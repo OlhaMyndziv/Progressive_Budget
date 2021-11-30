@@ -14,15 +14,38 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
+  ## Table Of Content
+* [User Story](#user-story)
+* [Installation](#installation)
+* [Technologies](#technologies)
+* [Questions](#questions)
+
+
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
 
-[Link to deployed application]()
+[Link to deployed application](https://secure-badlands-81029.herokuapp.com/)
 
 Image of downloaded application.
-![alt text]()
+![alt text](/icons/1.png)
+
+## Installation
+To get started clone this repository using 
+<br>
+```terminal
+git clone git@github.com:OlhaMyndziv/Progressive_Budget.git
+```
+Install dependencies 
+```terminal
+npm init
+```
+to start running application simply input 
+```terminal
+npm start
+```
+Once all that is done, navigate to - http://localhost:3000 to begin!
 
 ## Technologies
 Project is created with 
